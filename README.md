@@ -7,7 +7,7 @@ UI Automator test for android
 * pic similar/compared is included for assert
 * interactive case is supported thus you can test chat with differ user
 
-##how to use?
+#### how to use?
 * initAll:
     *  the follow codes will init conf 、log、adb、appium,thus reduce duplicate code
 ```
